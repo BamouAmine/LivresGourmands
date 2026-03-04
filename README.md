@@ -10,24 +10,7 @@ L'objectif de cette première phase est de poser les bases sémantiques et struc
 •	Concevoir l'architecture de données orientée objet.
 •	Définir les règles métier et le stack technologique.
 ________________________________________
-2. ANALYSE FONCTIONNELLE (CAS D’UTILISATION)
-2.1 Description des Acteurs
-•	Internaute : Visiteur anonyme (recherche, consultation).
-•	Client : Utilisateur authentifié (commande, panier, liste cadeaux).
-•	Ami : Tiers utilisant un code cadeau pour offrir un ouvrage.
-•	Éditeur : Responsable du contenu et de la modération.
-•	Gestionnaire : Responsable du catalogue et des stocks.
-•	Administrateur : Responsable technique et gestion des accès.
-2.2 Scénario Utilisateur (Client) : "Passer une commande"
-•	Précondition : Le client est connecté et possède des articles au panier.
-1.	Le client accède au récapitulatif de commande.
-2.	Le système vérifie la disponibilité réelle en stock.
-3.	Le client sélectionne l'adresse de livraison.
-4.	Le système calcule les taxes (TPS/TVQ) et frais d'expédition.
-5.	Le client est redirigé vers l'interface de paiement externe.
-6.	Succès : Le stock est décrémenté, le panier vidé, et un courriel est envoyé.
-	________________________________________
-3. Environnement de développement
+2. Environnement de développement
 •	Frontend : React (SPA) pour une navigation fluide.
 •	Backend : Node.js avec Express pour l'API REST.
 •	Base de données : MySQL (Relationnelle).
