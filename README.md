@@ -26,8 +26,8 @@ ________________________________________
 4.	Le système calcule les taxes (TPS/TVQ) et frais d'expédition.
 5.	Le client est redirigé vers l'interface de paiement externe.
 6.	Succès : Le stock est décrémenté, le panier vidé, et un courriel est envoyé.
-7.	________________________________________
-4.1 Environnement de développement
+	________________________________________
+3. Environnement de développement
 •	Frontend : React (SPA) pour une navigation fluide.
 •	Backend : Node.js avec Express pour l'API REST.
 •	Base de données : MySQL (Relationnelle).
