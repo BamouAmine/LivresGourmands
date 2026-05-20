@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d63384" />
+      <stop offset="100%" stop-color="#ff7eb9" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" rx="80" ry="80" fill="url(#g2)" />
+  <path d="M140 300 H1060 v260 H140 Z" fill="#ffffff" opacity="0.14" />
+  <path d="M140 660 H1060 v120 H140 Z" fill="#ffffff" opacity="0.14" />
+  <path d="M140 900 H760 v100 H140 Z" fill="#ffffff" opacity="0.25" />
+  <path d="M140 1080 H760 v100 H140 Z" fill="#ffffff" opacity="0.25" />
+  <text x="600" y="760" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="130" fill="#ffffff" font-weight="700">RECETTE</text>
+  <text x="600" y="900" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="54" fill="#ffffff">Littérature</text>
+  <circle cx="900" cy="1300" r="170" fill="#ffffff" opacity="0.16" />
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="g4" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6f42c1" />
+      <stop offset="100%" stop-color="#c8a2ff" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" rx="80" ry="80" fill="url(#g4)" />
+  <rect x="140" y="260" width="920" height="1260" rx="70" fill="#ffffff" opacity="0.12" />
+  <rect x="160" y="420" width="880" height="180" rx="40" fill="#ffffff" opacity="0.25" />
+  <rect x="160" y="660" width="660" height="140" rx="40" fill="#ffffff" opacity="0.25" />
+  <rect x="160" y="860" width="760" height="140" rx="40" fill="#ffffff" opacity="0.25" />
+  <text x="600" y="690" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="110" fill="#ffffff" font-weight="700">ÉVASION</text>
+  <text x="600" y="820" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="52" fill="#ffffff">Gourmand</text>
+  <circle cx="930" cy="1320" r="120" fill="#ffffff" opacity="0.18" />
+</svg>
